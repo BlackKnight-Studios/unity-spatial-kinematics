@@ -1,0 +1,13 @@
+{
+  "name": "com.omegagaze.spatial-kinematics",
+  "version": "3.0.0",
+  "displayName": "Spatial Kinematics Solver",
+  "description": "High-performance FABRIK, CCD, and sub-millimeter collision envelope solvers for Unity multi-axis manipulators.",
+  "unity": "2021.3",
+  "keywords": ["kinematics", "inverse-kinematics", "robotics", "fabrik", "ccd", "unity", "burst"],
+  "author": {
+    "name": "Gaurav Bhardwaj",
+    "email": "gaurav@omegagaze.in",
+    "url": "https://omegagaze.in"
+  }
+}
